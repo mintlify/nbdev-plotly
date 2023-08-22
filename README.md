@@ -10,3 +10,7 @@ documentation.
 ``` sh
 pip install nbdev_plotly
 ```
+
+``` python
+from nbdev_plotly.plotly import PlotlyProc
+```

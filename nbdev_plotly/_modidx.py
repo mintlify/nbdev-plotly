@@ -6,4 +6,5 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/sudhanshu2340/nbdev-plotly',
                 'lib_path': 'nbdev_plotly'},
   'syms': { 'nbdev_plotly.plotly': { 'nbdev_plotly.plotly.PlotlyProc': ('plotly.html#plotlyproc', 'nbdev_plotly/plotly.py'),
-                                     'nbdev_plotly.plotly.PlotlyProc.cell': ('plotly.html#plotlyproc.cell', 'nbdev_plotly/plotly.py')}}}
+                                     'nbdev_plotly.plotly.PlotlyProc.cell': ('plotly.html#plotlyproc.cell', 'nbdev_plotly/plotly.py'),
+                                     'nbdev_plotly.plotly.get_custom_code': ('plotly.html#get_custom_code', 'nbdev_plotly/plotly.py')}}}

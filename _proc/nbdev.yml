@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "nbdev-plotly"
-  site-url: "https://sudhanshu2340.github.io/nbdev-plotly"
-  description: "proc to convert plotly to widget json for quatro processing"
-  repo-branch: main
-  repo-url: "https://github.com/sudhanshu2340/nbdev-plotly"
