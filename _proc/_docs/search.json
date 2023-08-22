@@ -11,20 +11,6 @@
     "href": "index.html#install",
     "title": "nbdev-plotly",
     "section": "Install",
-    "text": "Install\npip install nbdev_plotly"
-  },
-  {
-    "objectID": "index.html#how-to-use",
-    "href": "index.html#how-to-use",
-    "title": "nbdev-plotly",
-    "section": "How to use",
-    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
-  },
-  {
-    "objectID": "plotly.html",
-    "href": "plotly.html",
-    "title": "plotly",
-    "section": "",
-    "text": "PlotlyProc\n\n PlotlyProc (nb)\n\nA processor that will do the conversion for outputs"
+    "text": "Install\npip install nbdev_plotly\n\nfrom nbdev_plotly.plotly import PlotlyProc"
   }
 ]
